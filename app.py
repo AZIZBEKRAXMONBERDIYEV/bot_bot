@@ -18,5 +18,5 @@ def salom():
 
         bot.send_message(chat_id=chr_id , text=txt)
 
-        return 'got a post request!'
+        return {}
 
